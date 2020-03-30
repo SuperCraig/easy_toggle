@@ -1,0 +1,4 @@
+rootProject.name='android_custom_toggle'
+include ':app'
+include ':custom_toggle_java'
+include ':easy_toggle'
